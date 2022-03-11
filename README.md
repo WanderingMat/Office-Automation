@@ -16,4 +16,4 @@ Installs the included certificate into the local machines certificate store afte
 
 VPNInstall.ps1: Installs a VPN automatically, simply change the listed variables where specified.
 
-cremoveVPN.ps1: Removes all VPN connections from the device, Care should be taken using this for some users.
+removeVPN.ps1: Removes all VPN connections from the device, Care should be taken using this for some users.
