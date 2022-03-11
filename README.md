@@ -1,2 +1,2 @@
 # Office-Automation
-Simple scripts to automate the mundane tasks I encounter at the office
+Simple powershell scripts to automate the mundane tasks I encounter at the office
