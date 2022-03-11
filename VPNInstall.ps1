@@ -1,0 +1,1 @@
+Add-VPNConnection -Name "VPN Name" -ServerAddress "VPN Address" -TunnelType "Tunnel Type" -L2tpPsk "Secret Key" -AuthenticationMethod AuthMethod -RememberCredential:$false -confirm:$false -force -AllUserConnection
