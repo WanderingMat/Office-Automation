@@ -11,4 +11,5 @@ The parameters are specified in the RMM parameters section, which is passed thro
 addPrintersFromCSV.ps1:
 Simple script which adds all printers listed on a CSV. SImply match the CSV name to the script, and ensure all variables are represented as their own titled column to use.
 
-
+certificateInstall.ps1:
+Installs the included certificate into the local machines certificate store after performing a check for the certificates thumbprint. Change the thumb print and certificate name where specified to the appropriate values. Certificate directory is set up to work with RMM deployment, can be changed as required.
