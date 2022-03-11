@@ -1,0 +1,1 @@
+get-vpnconnection | Remove-vpnconnection -confirm:$false -force
