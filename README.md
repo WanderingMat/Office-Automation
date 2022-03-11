@@ -7,3 +7,8 @@ To use, use the example .bat and change the referenced name to the name of your 
 addPrintersFromArguments.ps1 and .bat:
 This script is designed to work with my RMM client, allowing me to pass the IP, name, and optionally the driver to the script to allow bespoke printer installation remotely.
 The parameters are specified in the RMM parameters section, which is passed through the .bat to the powershell script.
+
+addPrintersFromCSV.ps1:
+Simple script which adds all printers listed on a CSV. SImply match the CSV name to the script, and ensure all variables are represented as their own titled column to use.
+
+
