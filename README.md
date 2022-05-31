@@ -24,3 +24,6 @@ Removes all VPN connections from the device, Care should be taken using this for
 
 createRestore.ps1:
 Creates a restore point with the current date as the name.
+
+pauseUpdates.ps1:
+Pauses the updates on the system for however many days are entered.
