@@ -27,3 +27,6 @@ Creates a restore point with the current date as the name.
 
 pauseUpdates.ps1:
 Pauses the updates on the system for however many days are entered.
+
+ieTabInstall.ps1:
+Checks the system if chrome and ietab are installed, and installs if they are found to not be installed.
